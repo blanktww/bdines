@@ -40,35 +40,35 @@ body{
     border-radius: 20px 20px ;
 }
 .car1{
-    background-image: url(/pag1/pc/tola1.jpg);
+    background-image: url(pag1/pc/tola1.jpg);
     background-size: cover;
     resize: vertical;
     overflow: auto;
 }
 .car2{
-    background-image: url(/pag1/pc/17224518966337124996242632314235\ -\ Diogo\ Nunes.jpg);
+    background-image: url(pag1/pc/17224518966337124996242632314235\ -\ Diogo\ Nunes.jpg);
     resize: vertical;
     overflow: auto;
 }
 .car3{
-    background-image: url(/pag1/pc/tola2.jpg);
+    background-image: url(pag1/pc/tola2.jpg);
     background-size: cover;
     resize: vertical;
     overflow: auto;
 }
 .car4{
-    background-image: url(/pag1/pc/tola3.jpg);
+    background-image: url(pag1/pc/tola3.jpg);
     background-size: cover;
     resize: vertical;
     overflow: auto;
 }
 .car5{
-    background-image: url(/pag1/pc/tola4.jpg);
+    background-image: url(pag1/pc/tola4.jpg);
     resize: vertical;
     overflow: auto;
 }
 .car6{
-    background-image: url(/pag1/pc/tola5.jpg);
+    background-image: url(pag1/pc/tola5.jpg);
     background-size: cover;
     resize: vertical;
     overflow: auto;
