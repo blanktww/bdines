@@ -5,7 +5,7 @@
 }
 
 body{
-    background-image: url(/pc/bg.jpg);
+    background-image: url(pc/bg.jpg);
     background-position: center;
     background-size: cover;
 }
@@ -33,7 +33,7 @@ body{
 }
 
 .card-image{
-    background: url(/pc/transferir\ \(1\).jfif);
+    background: url(pc/tola1.jpg);
     background-size: cover;
     height: 400px;
     margin-bottom: 15px;
